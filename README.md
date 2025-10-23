@@ -11,6 +11,7 @@
 | `AutoAssist.mpackage` | Autoassist. Follow sets leader, when anything happens to leader in combat, assists. F1 turns it on and off. |
 | `AzraZaira.mpackage` | Sets 'azra' alias after looking at the star map. Type azra to execute correct commands to open door. |
 | `BlindSequence.mpackage` | Blinds targets in sequence, forward or backwards. Tired of blinding 23.spirit? This helps. |
+| `FriendTracker.mpackage` | Who's who of the mume world. Ties characters to a nickname, then shows that nickname in who/group, if a friend is playing a character. Can also show the entire DB. |
 | `MassEnchanting.mpackage` | Enchant arrows, bolts, whatever. Bulk enchanting. Go afk, but don't forget to feed yourself. |
 | `OldschoolTwiddlers.mpackage` | New twiddlers suck! This returns oldschool twiddlers and adds execution time. |
 | `StatusBar_SpellTimers.mpackage` | Addon for Khazdul's spelltimer package, found here: https://github.com/Khazdul/MUME. It uses his timer database to put a simple bar at the bottom that shows the time, for better viewing. Also FLASHES BRIGHT RED if your big spells drop. |
