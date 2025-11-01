@@ -8,7 +8,7 @@
 
 | File | Description |
 |------|-------------|
-| `AutoAssist.mpackage` | Autoassist. Follow sets leader, when anything happens to leader in combat, assists. F1 turns it on and off. |
+| `AutoAssist.mpackage` | Autoassist. Follow sets leader, when anything happens to leader in combat, assists. F1 turns it on and off. (Bugged: Regexes don't capture all combat messages)|
 | `AzraZaira.mpackage` | Sets 'azra' alias after looking at the star map. Type azra to execute correct commands to open door. |
 | `BlindSequence.mpackage` | Blinds targets in sequence, forward or backwards. Tired of blinding 23.spirit? This helps. |
 | `FriendTracker.mpackage` | Who's who of the mume world. Ties characters to a nickname, then shows that nickname in who/group, if a friend is playing a character. Can also show the entire DB. |
