@@ -1,7 +1,7 @@
 ---
 
 ##💬 Note: All scripts are written using temporary code, stored in mudlet.storage and will not show up in your mudlet triggers/aliases/keys/... I really hate clutter. Info on scripts shows up when script loads in echoes. **  
-These are my characters:
+These are my characters
 Zygmud          (18) Rawr, Eladamri, Tiamat, Djinn, Balur, Ezuri, Guust, Larian, Median, Starke, 
                      Swag, Taki, Wicyth, Bamm, Dalinar, Tusker, Zygmud, celebrindor
 ---
