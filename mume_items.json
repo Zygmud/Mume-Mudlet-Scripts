@@ -29100,5 +29100,26 @@
       ]
     },
     "last_updated": "today"
+  },
+  {
+    "examine": "This is a piece of iron chain, old but not rusted, about a foot and a half in\nlength. A hook is welded to one end so that it can be wrapped around something\nand secured by putting the hook into one of the links. The metal is dark and\ncold to the touch; the links are uniform and smooth.",
+    "name": "an old length of iron chain",
+    "id_details": {
+      "weight": "one pound and two ounces",
+      "value": "fifty busc",
+      "keywords": [
+        "chain",
+        "length",
+        "iron"
+      ],
+      "properties": [
+        "anti-neutral",
+        "anti-good",
+        "enchanted",
+        "magic",
+        "object of mental nature"
+      ]
+    },
+    "last_updated": "today"
   }
 ]
