@@ -29041,5 +29041,64 @@
       ]
     },
     "last_updated": "5 years ago"
+  },
+  {
+    "examine": "This is truly an impressive and huge weapon. As you weigh it, you realize that\nonly the strongest could ever hope to wield it successfully. It seems to be\nmade of a solid and heavy metal and you can feel a strange vibration from it\nwhen grasped. Strange runes carved on its main body make it look like some kind\nof ancient artefact; runes that tell of its purpose and its power.",
+    "name": "the Hammer of Belegost",
+    "id_details": {
+      "weight": "five pounds and fifteen ounces",
+      "value": "four lauren and ten celeb",
+      "keywords": [
+        "hammer",
+        "Belegost",
+        "cweapon"
+      ],
+      "weapon_data": {
+        "one-handed": {
+          "offensive_bonus": 20,
+          "parry_bonus": 0,
+          "damage": 13.8,
+          "delay": 120,
+          "damage_per_second": 11.5
+        }
+      },
+      "properties": [
+        "enchanted",
+        "magic",
+        "metal pounding weapon"
+      ]
+    },
+    "last_updated": "today"
+  },
+  {
+    "examine": "The blade is made of some black metal. It glistens softly. The hilt has been\ncarved in the shape of a leering goblin-head. Runes are carved on the blade;\nthey speak, in the Black Tongue, of blood, darkness, and Melkor.",
+    "name": "a sacrificial knife",
+    "id_details": {
+      "weight": "eleven ounces",
+      "value": "one lauren and ten celeb",
+      "keywords": [
+        "knife",
+        "sacrificial",
+        "pweapon"
+      ],
+      "weapon_data": {
+        "one-handed": {
+          "offensive_bonus": 5,
+          "parry_bonus": 0,
+          "damage": 5.0,
+          "delay": 100,
+          "damage_per_second": 5.0
+        }
+      },
+      "damage": 1,
+      "offensive_bonus": 10,
+      "properties": [
+        "anti-neutral",
+        "anti-good",
+        "enchanted",
+        "metal piercing weapon"
+      ]
+    },
+    "last_updated": "today"
   }
 ]
