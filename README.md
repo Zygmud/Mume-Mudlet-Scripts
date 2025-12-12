@@ -20,6 +20,7 @@ Zygmud          (18) Rawr, Eladamri, Tiamat, Djinn, Balur, Ezuri, Guust, Larian,
 | `MassEnchanting.mpackage` | Enchant arrows, bolts, whatever. Bulk enchanting. Go afk, but don't forget to feed yourself. |
 | `MumeKeySubstitutions.mpackage` | Labels for keys. |
 | `OldschoolTwiddlers.mpackage` | New twiddlers suck! This returns oldschool twiddlers and adds execution time. |
+| `QuestViewer.mpackage` | Shows quests by zone or does fuzzy matching on whatever you look for. Shows matching certainty and possible alternatives. Very quickly done, please report any bugs to me. Requires "quests_data.json" in your mudlet profile folder in mudlet. |
 | `StatusBar_SpellTimers.mpackage` | Addon for Khazdul's spelltimer package, found here: https://github.com/Khazdul/MUME. It uses his timer database to put a simple bar at the bottom that shows the time, for better viewing. Also FLASHES BRIGHT RED if your big spells drop. |
 | `TPTracker.mpackage` | GMCP TP tracker. Shows TP when you gain them ingame. Manual command included to check since last request. |
 | `XPTracker.mpackage` | GMCP XP tracker. Gives pretty overview of what xp you gained this session. More of the data can be shown if wanted. WILL NOT WORK IF INSTALLED MIDSESSION (or will only start working next true login). REQUIRES GMCP INFO THAT IS ONLY PASSED AT LOGIN. INSTALL FIRST, THEN LOGIN TO MUME.|
