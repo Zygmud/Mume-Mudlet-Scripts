@@ -23,6 +23,7 @@ Zygmud          (18) Rawr, Eladamri, Tiamat, Djinn, Balur, Ezuri, Guust, Larian,
 | `QuestViewer.mpackage` | Shows quests by zone or does fuzzy matching on whatever you look for. Shows matching certainty and possible alternatives. Very quickly done, please report any bugs to me. Requires "quests_data.json" in your mudlet profile folder in mudlet. Huge thanks to the group maintaining Faine's website for the data. |
 | `StatusBar_SpellTimers.mpackage` | Addon for Khazdul's spelltimer package, found here: https://github.com/Khazdul/MUME. It uses his timer database to put a simple bar at the bottom that shows the time, for better viewing. Also FLASHES BRIGHT RED if your big spells drop. |
 | `TPTracker.mpackage` | GMCP TP tracker. Shows TP when you gain them ingame. Manual command included to check since last request. |
+| `TvSuite.mpackage` | Helper script for locate life/scry/watch room/portal. Keeps track of locate keys in a keystore for as long as they last, allows renaming, deleting and casting of spells using keys by clicking. |
 | `XPTracker.mpackage` | GMCP XP tracker. Gives pretty overview of what xp you gained this session. More of the data can be shown if wanted. WILL NOT WORK IF INSTALLED MIDSESSION (or will only start working next true login). REQUIRES GMCP INFO THAT IS ONLY PASSED AT LOGIN. INSTALL FIRST, THEN LOGIN TO MUME.|
 
 ---
