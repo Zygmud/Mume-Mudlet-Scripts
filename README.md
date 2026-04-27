@@ -24,6 +24,7 @@ Zygmud          (18) Rawr, Eladamri, Tiamat, Djinn, Balur, Ezuri, Guust, Larian,
 | `MumeSpellTimers.mpackage` | Refactored Khazdul's SpellTimers. Fixed bugs and adjusted theme to fit with the other windows. |
 | `OldschoolTwiddlers.mpackage` | New twiddlers suck! This returns oldschool twiddlers and adds execution time. |
 | `QuestViewer.mpackage` | Shows quests by zone or does fuzzy matching on whatever you look for. Shows matching certainty and possible alternatives. Very quickly done, please report any bugs to me. Requires "quests_data.json" in your mudlet profile folder in mudlet. Huge thanks to the group maintaining Faine's website for the data. |
+| `SmallSpellTimer.mpackage` | Mini timer for spells, using actual timer instead of twiddler calculation. More accurate. Type sst to toggle |
 | `StatusBar_SpellTimers.mpackage` | Addon for the spelltimer package. It uses the timer database to put a simple bar at the bottom that shows the time, for better viewing. Also FLASHES BRIGHT RED if your big spells drop. |
 | `TPTracker.mpackage` | GMCP TP tracker. Shows TP when you gain them ingame. Manual command included to check since last request. |
 | `TvSuite.mpackage` | Helper script for locate life/scry/watch room/portal. Keeps track of locate keys in a keystore for as long as they last, allows renaming, deleting and casting of spells using keys by clicking. |
